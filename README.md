@@ -1,9 +1,9 @@
 # AdvancedAndroid_ClassicalMusicQuiz
 <br>
 # IDENTITAS
-  Nama : Louisa Gabriella
-  Kelas : XII RPL 5 
-  Nomer Absen : 15
+  Nama : Louisa Gabriella <br>
+  Kelas : XII RPL 5 <br>
+  Nomer Absen : 15 <br>
   NIS : 4740/1459.070 
   <br> <br> <br>
 # LANGKAH PENGERJAAN <br>
